@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://mega.ibxk.com.br/2024/03/12/12121523051035.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: #e9311a;
+    margin-left: 26em;
+    margin-right: 26em;
+    margin-top: 13em;
+    text-align: center;
+    /* padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px; */
+    padding: 70px;
+    border-radius: 20px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+input {
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    margin-top: 30px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #000000;
+    color: azure;
+    font-size: 19px;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
